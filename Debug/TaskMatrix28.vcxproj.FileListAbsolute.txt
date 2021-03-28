@@ -1,0 +1,2 @@
+C:\Users\001\source\repos\TaskMatrix28\Debug\TaskMatrix28.exe
+C:\Users\001\source\repos\TaskMatrix28\Debug\TaskMatrix28.pdb
